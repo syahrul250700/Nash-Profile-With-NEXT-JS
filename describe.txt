@@ -2,3 +2,4 @@ SAH Web Profile
 - Pembuatan halaman utama
 - Pembuatan Halaman Profil Pribadi
 - Pembuatan Halaman Portfolio
+- Pembuatan Halaman Skill
